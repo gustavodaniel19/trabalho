@@ -1,0 +1,15 @@
+C:\Emerson\Petshops\bin\Debug\Petshops.exe.config
+C:\Emerson\Petshops\bin\Debug\Petshops.exe
+C:\Emerson\Petshops\bin\Debug\Petshops.pdb
+C:\Emerson\Petshops\obj\Debug\Petshops.csprojAssemblyReference.cache
+C:\Emerson\Petshops\obj\Debug\Petshops.FormLogin.resources
+C:\Emerson\Petshops\obj\Debug\Petshops.FormLogo.resources
+C:\Emerson\Petshops\obj\Debug\Petshops.FormPrincipal.resources
+C:\Emerson\Petshops\obj\Debug\Petshops.Properties.Resources.resources
+C:\Emerson\Petshops\obj\Debug\Petshops.csproj.GenerateResource.cache
+C:\Emerson\Petshops\obj\Debug\Petshops.csproj.CoreCompileInputs.cache
+C:\Emerson\Petshops\obj\Debug\Petshops.exe
+C:\Emerson\Petshops\obj\Debug\Petshops.pdb
+C:\Emerson\Petshops\obj\Debug\Petshops.FormCliente.resources
+C:\Emerson\Petshops\obj\Debug\Petshops.FormFuncionario.resources
+C:\Emerson\Petshops\obj\Debug\Petshops.FormProduto.resources
